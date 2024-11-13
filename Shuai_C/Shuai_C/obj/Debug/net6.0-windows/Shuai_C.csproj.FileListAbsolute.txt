@@ -1,0 +1,17 @@
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.Form1.resources
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.csproj.GenerateResource.cache
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.AssemblyInfoInputs.cache
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.AssemblyInfo.cs
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.sourcelink.json
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\bin\Debug\net6.0-windows\Shuai_C.exe
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\bin\Debug\net6.0-windows\Shuai_C.deps.json
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\bin\Debug\net6.0-windows\Shuai_C.runtimeconfig.json
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\bin\Debug\net6.0-windows\Shuai_C.dll
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\bin\Debug\net6.0-windows\Shuai_C.pdb
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.dll
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\refint\Shuai_C.dll
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.pdb
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\Shuai_C.genruntimeconfig.cache
+C:\Users\shuai.21032\Desktop\Shuai_C\Shuai_C\Shuai_C\obj\Debug\net6.0-windows\ref\Shuai_C.dll
