@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shuai_C")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b083f3e8bcf35d3e4219b67d767d95595ee330cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb1e6e6523e73c91845f98225b97ccecf2367ed1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shuai_C")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shuai_C")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

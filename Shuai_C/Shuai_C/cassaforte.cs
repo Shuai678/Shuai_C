@@ -12,20 +12,19 @@ namespace Shuai_C
         private string produttore;
         private string modello;
         private bool aperta = false;
-        private string codiceSblocco;  // (codice segreto di 12 caratteri alfanumerici)
-        private string codiceUtente; //(codice utente impostato dall'utente, inizialmente nullo)
-        private bool statoBlocco; // (indica se la cassaforte è bloccata dopo 5 tentativi falliti)
-        private int tentativiFalliti; // (contatore dei tentativi falliti)
-        private string dateTime;  // (data di apertura programmata)
+        private string codiceSblocco;  
+        private string codiceUtente; 
+        private bool statoBlocco; 
+        private int tentativiFalliti; 
+        private string dateTime;  
 
-        public cassaforte(string matric, string produttore, string modello, string codiceSblocco, bool statoBlocco, int tentativiFalliti, string dateTime)
+        public cassaforte(string matric, string produttore, string modello, string codiceUtente, string codiceSblocco, string dateTime)
         {
             this.matric = matric;
             this.produttore = produttore;
             this.modello = modello;
+            this.codiceUtente = codiceUtente;
             this.codiceSblocco = codiceSblocco;
-            this.statoBlocco = statoBlocco;
-            this.tentativiFalliti = tentativiFalliti;
             this.dateTime = dateTime;
         }
 
@@ -40,6 +39,10 @@ namespace Shuai_C
         {
             get { return codiceSblocco; }
             set { codiceSblocco = value; }
+        }
+        public bool Aperta
+        {
+            get { return aperta; }
         }
 
         public string CodiceUtente
@@ -61,7 +64,11 @@ namespace Shuai_C
                 codiceUtente = cdUtente;
             }
             else
+            {
+                
                 return;
+            }
+
         }
 
         public void Apri(string cdUtente)
@@ -84,6 +91,7 @@ namespace Shuai_C
             }
         }
 
+
         public void Chiudi()
         {
             aperta = false;
@@ -96,7 +104,10 @@ namespace Shuai_C
                 statoBlocco = false;
                 tentativiFalliti = 0;
                 aperta = true;
+                //Console.WriteLine("hai sbloccato la cassa");
+            
             }
+
         }
 
         public void ImpostaDataProgrammata(string data)
@@ -106,26 +117,28 @@ namespace Shuai_C
 
         public void AperturaProgrammata(string cdUtente, string data)
         {
+
             if (statoBlocco == true)
             {
                 return;
             }
-
-
-            if (codiceUtente == CodiceUtente && dateTime == data)
-            {
-                tentativiFalliti = 0;
-                aperta = true;
-            }
             else
             {
-                tentativiFalliti++;
-                if (tentativiFalliti >= 5)
-                    statoBlocco = true;
+
+
+                if (codiceUtente == CodiceUtente && dateTime == data)
+                {
+                    tentativiFalliti = 0;
+                    aperta = true;
+                }
+                else
+                {
+                    tentativiFalliti++;
+                    if (tentativiFalliti >= 5)
+                        statoBlocco = true;
+                 
+                }
             }
-
-
-
 
         }
     }

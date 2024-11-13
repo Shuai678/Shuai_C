@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\shuai.21032\\Desktop\\Shuai_C\\Shuai_C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CBD0D12A-0578-4060-9603-0113B7237C7F}|Shuai_C\\Shuai_C.csproj|c:\\users\\shuai.21032\\desktop\\shuai_c\\shuai_c\\shuai_c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD0D12A-0578-4060-9603-0113B7237C7F}|Shuai_C\\Shuai_C.csproj|solutionrelative:shuai_c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBD0D12A-0578-4060-9603-0113B7237C7F}|Shuai_C\\Shuai_C.csproj|c:\\users\\shuai.21032\\desktop\\shuai_c\\shuai_c\\shuai_c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBD0D12A-0578-4060-9603-0113B7237C7F}|Shuai_C\\Shuai_C.csproj|solutionrelative:shuai_c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -21,21 +25,38 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Shuai_C\\Shuai_C\\Shuai_C\\Form1.cs",
+              "RelativeDocumentMoniker": "Shuai_C\\Form1.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Shuai_C\\Shuai_C\\Shuai_C\\Form1.cs",
+              "RelativeToolTip": "Shuai_C\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwDMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:04:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "cassaforte.cs",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Shuai_C\\Shuai_C\\Shuai_C\\cassaforte.cs",
               "RelativeDocumentMoniker": "Shuai_C\\cassaforte.cs",
               "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Shuai_C\\Shuai_C\\Shuai_C\\cassaforte.cs",
               "RelativeToolTip": "Shuai_C\\cassaforte.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAYwIMAAAABAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwEMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T11:14:28.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Shuai_C\\Shuai_C\\Shuai_C\\Form1.cs",
               "RelativeDocumentMoniker": "Shuai_C\\Form1.cs",
